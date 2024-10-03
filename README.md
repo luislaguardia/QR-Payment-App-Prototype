@@ -11,12 +11,12 @@ This project is a simple Kivy application that allows users to send and receive 
 
 ## installations in terminal
 
-pip install kivy
-pip install kivymd
-pip install opencv-python
-pip install imutils
-pip install qrcode[pil]
-pip install pillow
-pip install pyzbar
-pip install numpy  # Optional, in case not installed with OpenCV
+1. pip install kivy
+2. pip install kivymd
+3. pip install opencv-python
+4. pip install imutils
+5. pip install qrcode[pil]
+6. pip install pillow
+7. pip install pyzbar
+8. pip install numpy
 
