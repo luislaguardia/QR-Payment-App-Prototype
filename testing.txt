@@ -1,0 +1,3 @@
+notes for testing
+
+couldnt build the program to apk
