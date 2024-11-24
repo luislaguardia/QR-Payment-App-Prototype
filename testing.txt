@@ -1,3 +1,6 @@
 notes for testing
 
 couldnt build the program to apk
+
+
+11/24/2024
